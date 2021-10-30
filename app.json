@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "jsonServerExemplo_V1",
-    "slug": "jsonServerExemplo_V1",
+    "name": "jsonServerExemplo",
+    "slug": "jsonServerExemplo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
